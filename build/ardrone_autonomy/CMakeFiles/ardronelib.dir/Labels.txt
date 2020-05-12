@@ -1,0 +1,13 @@
+# Target labels
+ ardronelib
+# Source files and their labels
+/home/santi/wsfin/build/ardrone_autonomy/CMakeFiles/ardronelib
+/home/santi/wsfin/build/ardrone_autonomy/CMakeFiles/ardronelib.rule
+/home/santi/wsfin/build/ardrone_autonomy/CMakeFiles/ardronelib-complete.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-install.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-mkdir.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-download.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-update.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-patch.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-configure.rule
+/home/santi/wsfin/devel/src/ardronelib-stamp/ardronelib-build.rule

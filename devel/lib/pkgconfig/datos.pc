@@ -1,0 +1,8 @@
+prefix=/home/santi/wsfin/devel
+
+Name: datos
+Description: Description of datos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
